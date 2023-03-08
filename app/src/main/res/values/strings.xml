@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sumsung_mini_project</string>
+    <string name="social_welf">Социальный рейтинг :</string>
+    <string name="military_pot">Военный потенциал :</string>
+    <string name="relig">Религия :</string>
+    <string name="tres">Казна :</string>
+    <string name="Nine">Нет</string>
+    <string name="Yeah">Да</string>
+</resources>
